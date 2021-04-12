@@ -11,6 +11,7 @@
 
 ## Algorithms
 
+- [Two Pointer Algorithm](Algorithms/Two_pointer_Algorithm.java)
 - [Kadane's Algorithm](Algorithms/kadanes_Java.java)
 - [Russian Peasant Algorithm](Algorithms/RussianPeasant.java)
 - [Z-Algorithm](Algorithms/ZAlgorithm.java)
@@ -98,6 +99,7 @@ _add list here_
 - [Maximum of Minimum for Every Window Size](cp/MaximumOfMinimumSubarrays.java)
 - [Rat In A Maze](cp/RatInAMaze.java)
 - [Median of two sorted arrays](cp/Median_of_two_sorted_arrays.java)
+- [Trapping Rain Water](cp/Trapping_rain_water.java)
 
 ## Cryptography
 
@@ -132,6 +134,8 @@ _add list here_
 - [Binary Tree](ds/Binary_Tree.java)
 - [Level order traversal of a tree](ds/LevelOrderTraversalRecursion.java)
 - [Check if a Binary Tree is a Binary Search Tree](ds/CheckBST.java)
+- [Find the LCA(Least Common Ancestor) in a Binary Search Tree](ds/LCAofaBST.java)
+- [Node to Root Path in a Binary Tree](ds/NodetoRootPath.java)
 - [Detect Loop in Linked List](DetectLoopLL.java)
 - [Delete node from LinkedList](ds/DeleteElementLL.java)
 - [Huffman ENcoder](ds/Huffman.java)
@@ -161,6 +165,8 @@ _add list here_
 - [Remove Duplicate in a Unsorted Linked List without extra Space](ds/RemDupInLLWithoutExtraSpace.java)
 - [Merge In Between Linked Lists](ds/MergeInBetweenLinkedLists.java)
 - [Double Ended Queue in Java](ds/DEQueue.java)
+- [Circular Queue](ds/CircularQueue.java)
+- [Implementing Stacks using Arrays](ds/StackUsingArrays.java)
 
 ## Graphs
 
@@ -173,6 +179,7 @@ _add list here_
 - [Prim's Algorithm](graphs/Prim_Algorithm.java)
 - [Directed Graph Cycle Detection](graphs/DirectedCycleDetection.java)
 - [Topological Sort in Directed Acyclic Graph (DAG)](graphs/TopologicalSort.java)
+- [Bipartite Check](graphs/BipartiteCheck.java)
 - [Articulation_Point](graphs/Articulation_Point.java)
 
 ## Mathematics
@@ -204,6 +211,10 @@ _add list here_
 - [Tribonacci series upto n terms](math/tribonacci.java)
 - [HappyNumber](math/HappyNumber.java)
 - [MagicNumber](math/Magicnumber.java)
+- [Matrix Addition](math/Matrix_addition.java)
+- [Mystery Number](math/MysteryNumber.java)
+- [Perfect Number](math/Perfect_Number.java)
+- [Matrix Multiplication](math/Matrix_multiplication.java)
 
 ## Dynamic Programming
 
@@ -219,6 +230,8 @@ _add list here_
 - [Unique BST](dp/Unique_BST.java)
 - [Job Sequencing to Maximize Profit](dp/JobSequencingToMaximizeProfit.java)
 - [Matrix Chain Multiplication to find the minimum cost](dp/MatrixChainMultiplication.java)
+- [Perfect Sum Problem](dp/PerfectSumProblem.java)
+- [Floyd Warshall Algorithm](dp/FloydWarshallAlgorithm.java)
 
 ## Blockchain
 
@@ -287,6 +300,7 @@ _add list here_
 - [One plus to the whole](other/OnePlustoWhole.java)
 - [Print all possible subsequences](other/SubSequences.java)
 - [Painter Partition problem](other/PainterPartition.java)
+- [Sum of pairwise bit differences](other/Pairwise_bitdiff_sum.java)
 - [Rainwater Harvesting](other/RainWaterHarvesting.java)
 - [Recursion Counting of Substring in given String](other/RecursionCount.java)
 - [Remove the key element from the array](other/remove_element_from_array.java)
@@ -303,4 +317,6 @@ _add list here_
 - [Adjacent Element Product](other/AdjacentElementProduct.java)
 - [Infix to Prefix Expression](other/InfixtoPrefix.java)
 - [Infix to Postfix Expression](other/InfixToPostfix.java)
+- [Pair programmers productivity problem](other/Pair_programmers_productivity_problem.java)
 - [Union of two Unsorted Arrays](other/UnionUnsortedArray.java)
+- [Repeating and missing number](other/Repeating_and_missing_number.java)
